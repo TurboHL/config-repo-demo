@@ -1,4 +1,7 @@
 info:
   profile: test
   name: turbo
-  password: 123456
+  password: 12345
+
+sboot: 
+  learner: yanghailong
